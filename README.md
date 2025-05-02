@@ -10,7 +10,7 @@ AUTHOR : MOHIT JOSHI
 3. SUITABLE FOR : 12th standard level coding <br>
 <br>
 **FEATURES**
-<br>
+<br><br>
 1. Made using python and MYSQL. <br>
 2. At the beginning of code, it gives you options to choose a function you want to use. <br>
 3. Each function makes changes to bookstor database. <br>
